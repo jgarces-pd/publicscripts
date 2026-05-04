@@ -21,17 +21,5 @@
     "hostname": "192.168.33.12",
     "nodename": "test",
     "osName": "Mac OS X"
-  },
-  "test2": {
-    "tags": "alphabet, soup",
-    "osFamily": "unix",
-    "ssh-key-storage-path": "keys/testkey2pem",
-    "username": "vagrant",
-    "osVersion": "10.10.3",
-    "osArch": "x86_64",
-    "description": "Rundeck server node",
-    "hostname": "192.168.33.13",
-    "nodename": "test2",
-    "osName": "Mac OS X"
   }
 }
